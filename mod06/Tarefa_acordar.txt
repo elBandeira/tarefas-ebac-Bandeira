@@ -1,0 +1,28 @@
+1 - Abrir os olhos;
+2 - Pegar o celular para olhar o horario;
+3 - Se estiver muito cedo;
+    1 - Voltar a dormir;
+4 - Se nao estiver;
+    1 - Levantar da cama;
+    2 - colocar os chinelos;
+    3 - Andar ate o banheiro;
+    4 - Pegar a pasta de dente;
+    5 - Girar a tampinha para abir a pasta;
+    6 - Pegar a escova de dentes;
+    7 - Espremer o tubo de pasta na escova;
+    8 - Direcionar a escova de dentes para a minha boca;
+    9 - Fazer movimentos circulares com a escova em meus dentes;
+    10 - Abrir a torneira;
+    11 - Pegar agua com a mao;
+    12 - Enxaguar a boca;
+    12 - Limpar escova;
+    13 - Fechar torneira;
+    14 - Fechar pasta;
+    15 - Guardar pasta e escova;
+    16 - Andar de volta ao quarto;
+    17 - Tirar a roupa;
+    18 - Dobrar a roupa;
+    19 - Abrir guarda roupas;
+    20 - Pegar uma roupa limpa;
+    21 - Vestir roupa limpa;
+Fim
